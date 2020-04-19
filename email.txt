@@ -1,0 +1,6 @@
+senderEmail: username@host.com
+receiverEmail: username@host.com
+subject: subject
+email: 
+Write your email here.
+It may reach as many lines as you wish.
